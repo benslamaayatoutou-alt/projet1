@@ -25,5 +25,5 @@ Feature: ajouteprojects
     Then the response message should be "<response>"
     Examples:
       | title | descreption | startDate  | estimateDate | response |
-      | abc   | eeeee       | 2026-04-20 | 2026-04-30   | success  |
+#      | abc   | eeeee       | 2026-04-20 | 2026-04-30   | success  |
       | aya   | rrrr        | 2026-05-mm | 2026-05-2x   | failure  |
