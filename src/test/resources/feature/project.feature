@@ -26,4 +26,4 @@ Feature: ajouteprojects
     Examples:
       | title | descreption | startDate  | estimateDate | response |
 #      | abc   | eeeee       | 2026-04-20 | 2026-04-30   | success  |
-      | aya   | rrrr        | 2026-05-mm | 2026-05-2x   | failure  |
+      | aya   | mll         | 2026-05-mm | 2026-05-2x   | failure  |
