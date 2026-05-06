@@ -27,3 +27,4 @@ Feature: ajouteprojects
       | title | descreption | startDate  | estimateDate | response |
 #      | abc   | eeeee       | 2026-04-20 | 2026-04-30   | success  |
       | aya   | mll         | 2026-05-mm | 2026-05-2x   | failure  |
+      | adem  | mllk        | 2026-05-mm | 2026-05-2x   | failure  |
